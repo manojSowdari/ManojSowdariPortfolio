@@ -13,7 +13,7 @@
 </head>
 <body>
     <header>
-        <h1>Manoj's Data Analytics Portfolio</h1>
+        <h1>My Data Analytics Portfolio</h1>
     </header>
     <div class="container">
         <section id="overview">
