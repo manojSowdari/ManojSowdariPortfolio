@@ -3,14 +3,12 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>My Data Analytics Portfolio</title>
-    <meta name="description" content="Showcase of data analytics projects including machine learning, data visualization, and predictive modeling.">
-    <meta name="keywords" content="Data Analytics, Machine Learning, Data Visualization, Predictive Modeling, Portfolio">
     <style>
         body { font-family: Arial, sans-serif; line-height: 1.6; padding: 20px; }
         header { background: #333; color: #fff; padding: 20px; text-align: center; }
         section { margin-top: 20px; }
-        img { width: 100%; max-width: 300px; }
-        .project { margin-bottom: 40px; }
+        img { width: 100%; max-width: 300px; float: right; margin: 0 0 20px 20px; }
+        .project { margin-bottom: 40px; overflow: hidden; } /* clear fix for floated images */
         .section-title { color: #333; margin-bottom: 10px; }
     </style>
 </head>
