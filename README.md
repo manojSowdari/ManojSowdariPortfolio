@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -17,7 +16,7 @@
 </head>
 <body>
     <header>
-        <h1>Manoj's Data Analytics Portfolio</h1>
+        <h1>My Data Analytics Portfolio</h1>
     </header>
     <section id="overview">
         <h2 class="section-title">Overview</h2>
