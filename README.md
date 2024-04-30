@@ -2,7 +2,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Manoj's Data Analytics Portfolio</title>
+    <title>My Data Analytics Portfolio</title>
     <meta name="description" content="Showcase of data analytics projects including machine learning, data visualization, and predictive modeling.">
     <meta name="keywords" content="Data Analytics, Machine Learning, Data Visualization, Predictive Modeling, Portfolio">
     <style>
