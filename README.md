@@ -19,6 +19,16 @@
     <section id="overview">
         <h2 class="section-title">Overview</h2>
         <p>This portfolio showcases a range of projects demonstrating extensive skills in data analytics, including machine learning, data visualization, and statistical modeling.</p>
+                </section>
+        <section id="skills">
+            <h2 class="section-title">Skills</h2>
+            <ul>
+                <li>Python and R for data analysis</li>
+                <li>SQL for database management</li>
+                <li>Data visualization with tools like Tableau and PowerBI</li>
+                <li>Machine Learning and Predictive Modeling</li>
+                <li>Statistical analysis and mathematical modeling</li>
+                <li>Practical applications of ethical AI</li>
     </section>
     <section id="projects">
         <h2 class="section-title">Projects</h2>
