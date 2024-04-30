@@ -1,8 +1,11 @@
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Manoj's Data Analytics Portfolio</title>
+    <meta name="description" content="Showcase of data analytics projects including machine learning, data visualization, and predictive modeling.">
+    <meta name="keywords" content="Data Analytics, Machine Learning, Data Visualization, Predictive Modeling, Portfolio">
     <style>
         body { font-family: Arial, sans-serif; line-height: 1.6; padding: 20px; }
         header { background: #333; color: #fff; padding: 20px; text-align: center; }
@@ -14,21 +17,22 @@
 </head>
 <body>
     <header>
-        <h1>My Data Analytics Portfolio</h1>
+        <h1>Manoj's Data Analytics Portfolio</h1>
     </header>
     <section id="overview">
         <h2 class="section-title">Overview</h2>
         <p>This portfolio showcases a range of projects demonstrating extensive skills in data analytics, including machine learning, data visualization, and statistical modeling.</p>
-                </section>
-        <section id="skills">
-            <h2 class="section-title">Skills</h2>
-            <ul>
-                <li>Python and R for data analysis</li>
-                <li>SQL for database management</li>
-                <li>Data visualization with tools like Tableau and PowerBI</li>
-                <li>Machine Learning and Predictive Modeling</li>
-                <li>Statistical analysis and mathematical modeling</li>
-                <li>Practical applications of ethical AI</li>
+    </section>
+    <section id="skills">
+        <h2 class="section-title">Skills</h2>
+        <ul>
+            <li>Python and R for data analysis</li>
+            <li>SQL for database management</li>
+            <li>Data visualization with tools like Tableau and PowerBI</li>
+            <li>Machine Learning and Predictive Modeling</li>
+            <li>Statistical analysis and mathematical modeling</li>
+            <li>Practical applications of ethical AI</li>
+        </ul>
     </section>
     <section id="projects">
         <h2 class="section-title">Projects</h2>
