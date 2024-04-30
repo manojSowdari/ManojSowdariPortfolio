@@ -14,7 +14,7 @@
 </head>
 <body>
     <header>
-        <h1>My Data Analytics Portfolio</h1>
+        <h1>Data Analytics Portfolio</h1>
     </header>
     <section id="overview">
         <h2 class="section-title">Overview</h2>
